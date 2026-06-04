@@ -22,6 +22,7 @@ sleep 2
 echo "[+] Installing Dependencies..." | lolcat
 pkg update -y > /dev/null 2>&1
 pkg install lolcat -y > /dev/null 2>&1
+chmod +x generator.sh
 
 echo "[✓] Installation Completed Successfully!" | lolcat
 echo "[✓] Created By: Decoded_191" | lolcat
