@@ -2,7 +2,7 @@
 
 A simple HTML page generator for educational, design, and entertainment purposes.
 
-Features
+## Features
 
 - Custom Name Input
 - Custom Message Input
@@ -11,13 +11,13 @@ Features
 - Mobile-Friendly Design
 - Local File Generation
 
-Important Notice
+## Important Notice
 
 This project does NOT perform website hacking, exploitation, unauthorized access, or website defacement.
 
 The generated file is only a standalone HTML page saved locally on the user's device for learning, design testing, demonstrations, and entertainment purposes.
 
-Disclaimer
+## Disclaimer
 
 - Educational use only.
 - No hacking functionality included.
@@ -26,7 +26,7 @@ Disclaimer
 - Users are responsible for their own actions.
 - The author is not responsible for misuse of the generated content.
 
-Usage
+## Usage
 
 1. Enter your name.
 2. Enter your custom message.
@@ -36,3 +36,5 @@ Usage
 License
 
 MIT License
+
+## Made By Decoded_191
