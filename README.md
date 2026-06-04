@@ -38,3 +38,19 @@ License
 MIT License
 
 ## Made By Decoded_191
+
+## Termux
+
+```
+git clone https://github.com/Speed494/HTML-Deface-Page-Generator
+cd HTML-Deface-Page-Generator
+chmod +x install.sh
+./install.sh
+```
+
+## First Run Install.sh Then This Code
+
+```
+chmod +x generator.sh
+./generator.sh
+```
