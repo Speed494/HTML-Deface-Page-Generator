@@ -37,7 +37,7 @@ License
 
 MIT License
 
-## Made By Decoded_191
+## Made By Ashutosh Das( royal darius )
 
 ## Termux
 
